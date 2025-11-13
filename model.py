@@ -104,7 +104,7 @@ class MiniGPT(nn.Module):
         pos_emb = self.pos_emb(torch.arange(T, device=idx.device))  # (T, d_model)
         x = tok_emb + pos_emb                             # (B, T, d_model)
 
-        # causal mask: 不看未來的 token
+        # causal mask 不看未來的 token
         mask = torch.tril(torch.ones(T, T, device=idx.device)).unsqueeze(0).unsqueeze(0)
         x = self.blocks(x, mask)
         x = self.ln_f(x)
