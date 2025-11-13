@@ -3,10 +3,11 @@
 Luna is a small transformer-based language model I built when I was 16.
 It can handle simple conversational tasks and represents the first full transformer implementation I wrote from scratch.
 
-This repository contains a basic, educational version of the model.
-You can train Luna on your own dataset, but I do not recommend using this version for large-scale or high-efficiency tasks, since it is designed for clarity rather than performance.
+The version in this repository is a basic, educational implementation.
+Its purpose was to help my younger self better understand how language model algorithms work, rather than to achieve high performance or efficiency.
+You can train Luna on your own dataset, but it is not designed for large-scale or optimized use.
 
 In a separate folder, I included a more efficient version that I built later, after learning more about model architectures and training algorithms.
-That improved version reflects the progress I made as I studied transformers in greater depth.
+Those improved versions reflect the progress I made as I studied transformers in greater depth.
 
-Luna was the project that helped me understand how transformers actually learn—from attention to weight updates—and it marks my first step into machine learning.
+Luna helped me understand the core concepts behind transformers—from attention mechanisms to weight updates—and represents my first step into machine learning.
