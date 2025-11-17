@@ -1,3 +1,4 @@
+m x n represents the shape of a matrix or vector.
 ![IMG_0123](https://github.com/user-attachments/assets/1f98f333-4a94-40dd-aa98-b4d2271c32ee)
 ![IMG_0124](https://github.com/user-attachments/assets/98980cb5-214a-4d96-a1fc-23a17ed3fa81)
 The division by the square root of dk in the attention score step should be divided by the square root of 2, not 2.
