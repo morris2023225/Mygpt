@@ -4,7 +4,7 @@
 ![IMG_0126](https://github.com/user-attachments/assets/c9b1b37a-23f8-4535-a659-7058e3e47193)
 # Luna
 
-This is the code I used to train my first language model i built it's a very basic transformer model. You can try training it with your own resources. Below are my notes on deriving the formulas.It's quite fun!
+This is the code I used to train my first language model i built it's a very basic transformer model. You can try training it with your own data. Below are my notes on deriving the formulas.There may have been some errors in the note I wrote back then.It's quite fun!
 ![IMG_0116](https://github.com/user-attachments/assets/ceb23564-13a0-4c02-83d9-05198e275e49)
 ![IMG_0117](https://github.com/user-attachments/assets/2085d931-2a02-4cd3-9457-d8560257e4df)
 ![IMG_0118](https://github.com/user-attachments/assets/49937c47-3e0f-4f95-8e13-0ba27c9d6b70)
