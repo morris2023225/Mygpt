@@ -1,5 +1,6 @@
 ![IMG_0123](https://github.com/user-attachments/assets/1f98f333-4a94-40dd-aa98-b4d2271c32ee)
 ![IMG_0124](https://github.com/user-attachments/assets/98980cb5-214a-4d96-a1fc-23a17ed3fa81)
+The division by the square root of dk in the attention score step should be divided by the square root of 2, not 2.
 ![IMG_0125](https://github.com/user-attachments/assets/38f11585-93a7-4802-975b-f24dcad2dfb8)
 ![IMG_0126](https://github.com/user-attachments/assets/c9b1b37a-23f8-4535-a659-7058e3e47193)
 # Luna
