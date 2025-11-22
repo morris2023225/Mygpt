@@ -3,6 +3,7 @@
 # Luna
 
 This is the code I used to train my first language model i built it's a very basic transformer model. You can try training it with your own data. Below are my notes on deriving the formulas.There may have been some errors in the note I wrote back then.I didn't correct it because I wanted to keep the notes as they were originally.It's quite fun!
+The model weights exceeded the file size limit on GitHub, so I split the model file.
 m x n represents in the note means the shape of a matrix or vector. It is used to derive matrix shape transformations, not for calculations.
 ![IMG_0123](https://github.com/user-attachments/assets/1f98f333-4a94-40dd-aa98-b4d2271c32ee)
 ![IMG_0124](https://github.com/user-attachments/assets/98980cb5-214a-4d96-a1fc-23a17ed3fa81)
